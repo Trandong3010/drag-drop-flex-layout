@@ -20,7 +20,6 @@ import { DragDropExampleComponent } from './DragDropExampleComponent/drag-drop-e
     <a target="_blank" href="https://angular.io/start">
       Learn more about Angular 
     </a>
-    <app-drag-drop-example></app-drag-drop-example>
   `,
 })
 export class App {
